@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm Natalia ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student from Russia 🇷🇺
 
 <!--
 **NatashaPinegina/NatashaPinegina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
